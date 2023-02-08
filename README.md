@@ -1,2 +1,3 @@
 # eks-autoscaler-demo
-terraform init terraform apply
+# terraform init 
+# terraform apply
